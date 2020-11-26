@@ -1096,6 +1096,22 @@ a {
   text-align: center;
   color: #084990;
 }
+.cid-sh2mxrJVI2 .botaodecompracerta {
+  animation-name: scalingAnimation;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+@keyframes scalingAnimation {
+  0% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(1.1, 1.1);
+  }
+  100% {
+    transform: scale(1, 1);
+  }
+}
 .cid-shiF4E22BJ {
   padding-top: 0rem;
   padding-bottom: 4rem;
@@ -1321,6 +1337,22 @@ a {
 .cid-shocj8nk9Z H3 {
   color: #000000;
 }
+.cid-shocj8nk9Z .botaodecompracerta {
+  animation-name: scalingAnimation;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+@keyframes scalingAnimation {
+  0% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(1.1, 1.1);
+  }
+  100% {
+    transform: scale(1, 1);
+  }
+}
 .cid-shiWZgC6yC {
   padding-top: 1rem;
   padding-bottom: 3rem;
@@ -1414,6 +1446,22 @@ a {
 .cid-sho1V6QAqw .mbr-section-title {
   color: #ffffff;
 }
+.cid-sho1V6QAqw .botaodecompracerta {
+  animation-name: scalingAnimation;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+@keyframes scalingAnimation {
+  0% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(1.1, 1.1);
+  }
+  100% {
+    transform: scale(1, 1);
+  }
+}
 .cid-shootXFdho {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -1481,25 +1529,4 @@ a {
 }
 .cid-shootXFdho .media-container-row .row-copirayt p {
   width: 100%;
-}
-.cid-shpJ7nXLXf {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-color: #ffffff;
-}
-.cid-shpJ7nXLXf .botaodecompracerta {
-  animation-name: scalingAnimation;
-  animation-duration: 2s;
-  animation-iteration-count: infinite;
-}
-@keyframes scalingAnimation {
-  0% {
-    transform: scale(1, 1);
-  }
-  50% {
-    transform: scale(1.1, 1.1);
-  }
-  100% {
-    transform: scale(1, 1);
-  }
 }
